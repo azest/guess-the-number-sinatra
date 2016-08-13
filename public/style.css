@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro|Arvo:400,700);
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-image: url("img/light-bg1.png");
+  color white;
+  text-align: center;
+  font-family: "Average", Source Sans Pro;
+  font-size:22px;
+}
+
+h1 {
+    font-family: "Fjalla One", Arvo;
+}
+.title {
+  font-size: 5em;
+  color: pink;
+}
+
+.btn {
+  font-size: inherit;
+  color: white;
+  background-color: purple;
+  text-decoration: none;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  display: inline-block;
+}
+
+.guess {
+  font-size: 2em;
+  display: block;
+  margin: 0 auto;
+}
+
+.trophy {
+  height: 250px;
+}
